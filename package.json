@@ -1,0 +1,25 @@
+{
+  "name": "gonzalito",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cep-promise": "^4.1.1",
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
+    "cnpj-consulta": "^1.0.0",
+    "express": "^4.17.3",
+    "faz-um-pix": "^2.0.2",
+    "ip-promise": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.12",
+    "sinesp-api": "^3.0.0",
+    "telegraf": "^4.4.1"
+  }
+}
